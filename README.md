@@ -1,4 +1,5 @@
 # HR-Analytics-through-MS-Power-BI
+### [Click here](https://app.powerbi.com/links/jU1swg8tnQ?ctid=286121cd-9f51-411d-bb52-10ad87417aa2&pbi_source=linkShare)
 ## Objective
 Help an organization to improve employee performance and improve employee retention(reduce attrition) by creatinng a Human Resource Analytics dashboard.
 
